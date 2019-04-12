@@ -6,11 +6,11 @@ don't really plan on making it much better
 arguments:
 * -d [easy|medium|hard]
   * difficulty (pre-set number to hide)
-* -r <int>
+* -r NUMBER
   * number of items to hide
-* -o <str>
+* -o FILENAME
   * save puzzle as given filename
-* -s <str>
+* -s FILENAME
   * load puzzle and attempt to solve it
 * -p
   * print contents of puzzle to screen
